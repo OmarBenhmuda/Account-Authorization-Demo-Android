@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_input_text.xml.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\drawable\\input_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_password.png.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_password.png"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_password.png.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_password.png"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_email.png.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_email.png"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_logged_in.xml.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\layout\\activity_logged_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login.png.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_register.png.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\drawable\\register.png"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_about.xml.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_password.png.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\drawable-hdpi\\ic_action_password.png"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_action_email.xml.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\drawable-anydpi\\ic_action_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_navigation.xml.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\menu\\bottom_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\xml_backup_descriptor.xml.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\xml\\backup_descriptor.xml"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_person.png.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\drawable-hdpi\\ic_action_person.png"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_password.png.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\drawable-mdpi\\ic_action_password.png"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_add_black_24dp.xml.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\drawable\\ic_person_add_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_person.png.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_person.png"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_background.jpg.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\drawable\\login_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_account_circle_black_24dp.xml.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\drawable\\ic_account_circle_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_email.png.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\drawable-mdpi\\ic_action_email.png"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_person.png.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_person.png"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_action_person.xml.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\drawable-anydpi\\ic_action_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_action_password.xml.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\drawable-anydpi\\ic_action_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_person.png.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\drawable-mdpi\\ic_action_person.png"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_live_help_black_24dp.xml.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\drawable\\ic_live_help_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_email.png.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_email.png"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_register.xml.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_vpn_key_black_24dp.xml.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\drawable\\ic_vpn_key_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_email.png.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\drawable-hdpi\\ic_action_email.png"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_gray.xml.flat",
+        "source": "C:\\Users\\omar2\\AndroidStudioProjects\\Account-Authentication-Demo\\app\\src\\main\\res\\drawable\\button_gray.xml"
+    }
+]
